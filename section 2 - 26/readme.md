@@ -1,4 +1,4 @@
-##this is fundamental section
+## this is fundamental section
 
 - v-model (.trim .lazy .number)
 - v-bind:
