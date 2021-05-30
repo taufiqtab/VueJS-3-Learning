@@ -1,10 +1,4 @@
-## this is fundamental section
+## Fundamental - Modify Class attribute with computed 
 
-- v-model (.trim .lazy .number)
-- v-bind:
-- v-html
-- @input (.prevent)
-- v-on:click (.ctrl)
-- @click
-- @keyup (.enter)
-- :value
+- change css Background color
+- change css text color
